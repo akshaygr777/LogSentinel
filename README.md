@@ -150,6 +150,26 @@ pytest tests/
 
 ## Screenshots
 
+<<<<<<< HEAD
 
 
 
+=======
+<img width="1905" height="841" alt="1s" src="https://github.com/user-attachments/assets/5e8fc4c1-31ab-4973-8ada-b2dfbab8592d" />
+
+<img width="1885" height="855" alt="2s" src="https://github.com/user-attachments/assets/2a2742c8-3bf6-4d9b-a41a-c81ad93a218e" />
+
+<img width="1887" height="851" alt="3s" src="https://github.com/user-attachments/assets/5926b7c4-82d1-4226-ab92-9200724317bd" />
+
+<img width="1915" height="860" alt="4s" src="https://github.com/user-attachments/assets/96434518-7089-4b1a-9ec5-a2f0207e0053" />
+
+<img width="1876" height="852" alt="5s" src="https://github.com/user-attachments/assets/be04a466-8497-4b56-bb3a-6e18736be8ef" />
+
+<img width="1902" height="856" alt="6s" src="https://github.com/user-attachments/assets/124f0789-e0f5-4fc2-8075-b98e7b21fd94" />
+
+
+
+
+
+
+>>>>>>> a7b844157a3643ff1bd4480458caeccd97f31309
