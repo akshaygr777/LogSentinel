@@ -150,11 +150,6 @@ pytest tests/
 
 ## Screenshots
 
-*(Add screenshots of the Streamlit dashboard here once deployed)*
 
-## Future Improvements
 
-- Add support for real-time log ingestion (e.g., via tailing a file or a lightweight API).
-- Implement Isolation Forests (via scikit-learn) for multivariate anomaly detection.
-- Add email/webhook alerting for HIGH severity anomalies.
-- Enhance the parser to support JSON structured logs.
+

@@ -6,3 +6,4 @@ database/*.db
 data/sample_logs/*.log
 .env
 .DS_Store
+README.md
